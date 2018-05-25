@@ -43,7 +43,7 @@ class App extends React.Component{
         country : undefined,
         humidity : undefined,
         description : undefined,
-        error : "fuck off"
+        error : "Enter details first."
         });
     }
   }
