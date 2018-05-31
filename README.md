@@ -36,3 +36,7 @@ THe API which is used to buid this app is [Weather API](https://openweathermap.o
 By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
+
+## Note
+
+First you have to declare your **API key** value to API_Key valiable which is present inside **src/App.js** file. You will get you API Key from [Weather API](https://openweathermap.org/) website where first you have sign in and the rest will be takencare by the website.
